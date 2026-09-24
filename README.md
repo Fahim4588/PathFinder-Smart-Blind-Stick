@@ -1,4 +1,4 @@
-# Path Finder (Blind Guide Prototype)
+# Path Finder: ESP32 Smart Blind Stick with Android Navigation and Obstacle Detection
 
 Path Finder is an experimental assistive-navigation prototype made from two connected parts:
 
